@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "This is another account",
+      "description": "This is my another channel",
+      "userId": "115024821678743648252",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You should not see this on the form page",
+      "userId": "111968003989488632472",
+      "id": 3
+    },
+    {
+      "title": "This is a Stream",
+      "description": "This is a  edited Stream ",
+      "userId": "111968003989488632472",
+      "id": 5
+    },
+    {
+      "title": "Me Streaming Components ",
+      "description": "Watch me ",
+      "id": 6
+    },
+    {
+      "title": "Mandy's Stream",
+      "description": "What now !!!!",
+      "userId": "111968003989488632472",
+      "id": 7
+    }
+  ]
+}
